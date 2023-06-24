@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4925763141506013877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1521361797849978990, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797849978990, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797849978991, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c955edfb01b5b58478079b625aa247ec, type: 3}
+    - target: {fileID: 1521361797928536865, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Name
+      value: SnowPeaAnim
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536866, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536867, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: isFrozenPea
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361797928536867, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: frozenGlitchMat
+      value: 
+      objectReference: {fileID: 2100000, guid: 7aec8773f59ada1448937ef38316a0c8, type: 2}
+    - target: {fileID: 1521361797928536867, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: frozenNormalMat
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bc356babc8a1a9409668a3fdd58e4d5, type: 2}
+    - target: {fileID: 1521361798265308369, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c955edfb01b5b58478079b625aa247ec, type: 3}
+    - target: {fileID: 1521361798629726158, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c955edfb01b5b58478079b625aa247ec, type: 3}
+    - target: {fileID: 1521361798713185616, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8bc356babc8a1a9409668a3fdd58e4d5, type: 2}
+    - target: {fileID: 1521361798799085466, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361798799085466, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361798799085466, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521361798799085467, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 455c0a8671df59c40a9b2dcf641ce42d, type: 3}
+    - target: {fileID: 1521361798979620610, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c955edfb01b5b58478079b625aa247ec, type: 3}
+    - target: {fileID: 1521361799374604218, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c955edfb01b5b58478079b625aa247ec, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c27785f44de9518468805bd2eaada0b9, type: 3}
